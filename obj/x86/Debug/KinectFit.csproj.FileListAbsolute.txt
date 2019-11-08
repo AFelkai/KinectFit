@@ -1,0 +1,52 @@
+F:\Downloads\DiscreteGestureBasics-WPF\obj\x86\Debug\MainWindow.g.cs
+F:\Downloads\DiscreteGestureBasics-WPF\obj\x86\Debug\App.g.cs
+F:\Downloads\DiscreteGestureBasics-WPF\obj\x86\Debug\KinectFit_Content.g.cs
+F:\Downloads\DiscreteGestureBasics-WPF\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Downloads\DiscreteGestureBasics-WPF\obj\x86\Debug\KinectFit_MarkupCompile.cache
+F:\Downloads\DiscreteGestureBasics-WPF\obj\x86\Debug\KinectFit_MarkupCompile.lref
+F:\Downloads\KinectFit\obj\x86\Debug\KinectFit.csprojAssemblyReference.cache
+F:\Downloads\KinectFit\obj\x86\Debug\MainWindow.g.cs
+F:\Downloads\KinectFit\obj\x86\Debug\App.g.cs
+F:\Downloads\KinectFit\obj\x86\Debug\KinectFit_Content.g.cs
+F:\Downloads\KinectFit\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Downloads\KinectFit\obj\x86\Debug\KinectFit_MarkupCompile.cache
+F:\Downloads\KinectFit\obj\x86\Debug\KinectFit_MarkupCompile.lref
+F:\Downloads\KinectFit\bin\x86\Debug\Database\KinectFit.gbd
+F:\Downloads\KinectFit\bin\x86\Debug\KinectFit.exe.config
+F:\Downloads\KinectFit\bin\x86\Debug\KinectFit.exe
+F:\Downloads\KinectFit\bin\x86\Debug\KinectFit.pdb
+F:\Downloads\KinectFit\bin\x86\Debug\Microsoft.Kinect.dll
+F:\Downloads\KinectFit\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+F:\Downloads\KinectFit\bin\x86\Debug\Microsoft.Kinect.xml
+F:\Downloads\KinectFit\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+F:\Downloads\KinectFit\obj\x86\Debug\MainWindow.baml
+F:\Downloads\KinectFit\obj\x86\Debug\KinectFit.g.resources
+F:\Downloads\KinectFit\obj\x86\Debug\KinectFit.Properties.Resources.resources
+F:\Downloads\KinectFit\obj\x86\Debug\KinectFit.csproj.GenerateResource.cache
+F:\Downloads\KinectFit\obj\x86\Debug\KinectFit.csproj.CoreCompileInputs.cache
+F:\Downloads\KinectFit\obj\x86\Debug\KinectFit.csproj.CopyComplete
+F:\Downloads\KinectFit\obj\x86\Debug\KinectFit.exe
+F:\Downloads\KinectFit\obj\x86\Debug\KinectFit.pdb
+F:\VS Repos\School\KinectFit\bin\x86\Debug\Database\KinectFit.gbd
+F:\VS Repos\School\KinectFit\bin\x86\Debug\KinectFit.exe.config
+F:\VS Repos\School\KinectFit\bin\x86\Debug\KinectFit.exe
+F:\VS Repos\School\KinectFit\bin\x86\Debug\KinectFit.pdb
+F:\VS Repos\School\KinectFit\bin\x86\Debug\Microsoft.Kinect.dll
+F:\VS Repos\School\KinectFit\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+F:\VS Repos\School\KinectFit\bin\x86\Debug\Microsoft.Kinect.xml
+F:\VS Repos\School\KinectFit\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+F:\VS Repos\School\KinectFit\obj\x86\Debug\KinectFit.csprojAssemblyReference.cache
+F:\VS Repos\School\KinectFit\obj\x86\Debug\MainWindow.g.cs
+F:\VS Repos\School\KinectFit\obj\x86\Debug\App.g.cs
+F:\VS Repos\School\KinectFit\obj\x86\Debug\KinectFit_Content.g.cs
+F:\VS Repos\School\KinectFit\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\VS Repos\School\KinectFit\obj\x86\Debug\KinectFit_MarkupCompile.cache
+F:\VS Repos\School\KinectFit\obj\x86\Debug\KinectFit_MarkupCompile.lref
+F:\VS Repos\School\KinectFit\obj\x86\Debug\MainWindow.baml
+F:\VS Repos\School\KinectFit\obj\x86\Debug\KinectFit.g.resources
+F:\VS Repos\School\KinectFit\obj\x86\Debug\KinectFit.Properties.Resources.resources
+F:\VS Repos\School\KinectFit\obj\x86\Debug\KinectFit.csproj.GenerateResource.cache
+F:\VS Repos\School\KinectFit\obj\x86\Debug\KinectFit.csproj.CoreCompileInputs.cache
+F:\VS Repos\School\KinectFit\obj\x86\Debug\KinectFit.csproj.CopyComplete
+F:\VS Repos\School\KinectFit\obj\x86\Debug\KinectFit.exe
+F:\VS Repos\School\KinectFit\obj\x86\Debug\KinectFit.pdb
